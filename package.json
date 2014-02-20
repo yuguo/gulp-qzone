@@ -1,0 +1,13 @@
+{
+  "name": "gulp-qzone",
+  "description": "gulp workflow in qzone.",
+  "author": {
+    "name": "yuguo"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "gulp-util": "~2.2.14",
+    "gulp": "~3.4.0",
+    "gulp.spritesmith": "^0.1.1"
+  }
+}
